@@ -1,2 +1,3 @@
 # Hold-shift-and-check
 This is a little javascript challenge that involves checkboxes. the function it executes is when you check a box (event 1), then hold shift and click at another box(event 2) , all the other boxes between the 2 events are checked.  
+the problem i am having is that after the function is executed. when i click at another box it gets checked along with the other boxes that got checked when the function was executed . i want to make it so that after the function has executed and i click at another box, i want the previous boxes to be unchecked. I tried a bunch of logic but none of them worked.
